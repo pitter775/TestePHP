@@ -1,4 +1,4 @@
-# SIGO
+# Teste PHP
 
 ## Instalação
 
@@ -7,7 +7,6 @@
 3. Renomear `.env.example` para `.env` e atualizar com as credenciais do seu banco de dados local
 4. `php artisan key:generate`
 5. `php artisan migrate --seed`
-6. `php artisan module:seed`
 7. `php artisan serve`
 
 ## Dependência
