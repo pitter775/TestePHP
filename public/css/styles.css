@@ -1,0 +1,9 @@
+.alertposition {
+        float: right;
+        width: 300px;
+        right: 0 !important;
+        top: 20px;
+        margin-right: 20px;
+        position: fixed;
+        z-index: 9999;
+    }
